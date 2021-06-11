@@ -50,7 +50,7 @@ module Input = {
       <p
         style={makeStyle(
           ~position="absolute",
-          ~top="32px",
+          ~top="34px",
           ~padding="0",
           ~margin="0",
           ~color=Styles.variables.black,

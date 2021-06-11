@@ -28,6 +28,7 @@ let buttonStyle = makeStyle(
   ~padding="10px 20px",
   ~border="none",
   ~fontWeight="bold",
+  ~fontSize="13px",
   ~color="black",
   ~boxShadow=`0 0 10px ${variables.shadow}`,
   ~textTransform="uppercase",
