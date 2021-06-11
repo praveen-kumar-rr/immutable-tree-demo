@@ -13,6 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "/immutable-tree-demo/",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",

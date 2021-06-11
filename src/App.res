@@ -502,7 +502,7 @@ module Brand = {
   let make = () => {
     <HeaderByWidth
       style={makeStyle(~margin="0 0 4px 0", ~padding="0", ~color=Styles.variables.black, ())}>
-      <a href="/" style={makeStyle(~textDecoration="none", ~color=Styles.variables.black, ())}>
+      <a href="" style={makeStyle(~textDecoration="none", ~color=Styles.variables.black, ())}>
         {"@rpkumar/immutable-tree"->React.string}
       </a>
     </HeaderByWidth>
@@ -526,7 +526,7 @@ module NavBar = {
       <div style={Styles.flexCenter}>
         <div>
           <a href="https://www.npmjs.com/package/@rpkumar/immutable-tree" target="_blank">
-            <img src="/img/npm.svg" width="40px" alt="npm" />
+            <img src="img/npm.svg" width="40px" alt="npm" />
           </a>
         </div>
         <div style={makeStyle(~margin="0 0 0 20px", ())}>
