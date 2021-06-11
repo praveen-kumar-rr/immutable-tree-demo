@@ -1,0 +1,14 @@
+####{BSB GENERATED: NO EDIT
+B lib\bs
+FLG -open ImmutableTreeDemo
+FLG -ppx "D:\Projects\open-source\immutable-tree-demo\node_modules\bs-platform\win32\bsc.exe -as-ppx -bs-jsx 3"
+S D:\Projects\open-source\immutable-tree-demo\node_modules\bs-platform\lib\ocaml
+B D:\Projects\open-source\immutable-tree-demo\node_modules\bs-platform\lib\ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S D:\Projects\open-source\immutable-tree-demo\node_modules\@rescript\react\lib\ocaml
+B D:\Projects\open-source\immutable-tree-demo\node_modules\@rescript\react\lib\ocaml
+S D:\Projects\open-source\immutable-tree-demo\node_modules\@rpkumar\immutable-tree\lib\ocaml
+B D:\Projects\open-source\immutable-tree-demo\node_modules\@rpkumar\immutable-tree\lib\ocaml
+S src
+B lib\bs\src
+####BSB GENERATED: NO EDIT}
