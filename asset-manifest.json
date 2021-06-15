@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/immutable-tree-demo/static/css/main.9f312460.chunk.css",
-    "main.js": "/immutable-tree-demo/static/js/main.51c434fa.chunk.js",
+    "main.js": "/immutable-tree-demo/static/js/main.6dae3384.chunk.js",
     "runtime-main.js": "/immutable-tree-demo/static/js/runtime-main.085e95fb.js",
-    "static/js/2.fcecbe98.chunk.js": "/immutable-tree-demo/static/js/2.fcecbe98.chunk.js",
+    "static/js/2.b001c217.chunk.js": "/immutable-tree-demo/static/js/2.b001c217.chunk.js",
     "index.html": "/immutable-tree-demo/index.html",
-    "static/js/2.fcecbe98.chunk.js.LICENSE.txt": "/immutable-tree-demo/static/js/2.fcecbe98.chunk.js.LICENSE.txt"
+    "static/js/2.b001c217.chunk.js.LICENSE.txt": "/immutable-tree-demo/static/js/2.b001c217.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.085e95fb.js",
-    "static/js/2.fcecbe98.chunk.js",
+    "static/js/2.b001c217.chunk.js",
     "static/css/main.9f312460.chunk.css",
-    "static/js/main.51c434fa.chunk.js"
+    "static/js/main.6dae3384.chunk.js"
   ]
 }
