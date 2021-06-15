@@ -17,5 +17,5 @@
   ],
   "suffix": ".bs.js",
   "namespace": true,
-  "bs-dependencies": ["@rescript/react", "@rpkumar/immutable-tree"]
+  "bs-dependencies": ["@rescript/react", "immutable-tree-module"]
 }
